@@ -1,6 +1,3 @@
-﻿||||
-| :- | :-: | -: |
-
 **19CSE204 OBJECT ORIENTED PROGRAMMING**
 
 **CASE STUDY REPORT**
@@ -382,16 +379,17 @@ The main purpose of this project “Movie ticket booking system” is to provide
 
 **Use case diagram:**
 
-
+![image](https://user-images.githubusercontent.com/85207262/148813156-2e2e133b-0fa4-40ca-add7-6224f86958ca.png)
 
 **Time sequence diagram:** 
 
-
+![image](https://user-images.githubusercontent.com/85207262/148813371-d6be562a-d02d-44a9-8b09-aacd82c02266.png)
+![image](https://user-images.githubusercontent.com/85207262/148813467-2e85e32f-ba3b-4baa-8870-4efe2eae2a9c.png)
 
 
 **Object Diagram:**
 
-
+![image](https://user-images.githubusercontent.com/85207262/148813583-3aa0262c-5e92-4399-a55c-e2d15951d066.png)
 
 
 **From the Conceptual classes identify the following:** 
@@ -435,7 +433,7 @@ The main purpose of this project “Movie ticket booking system” is to provide
 
 **Class Diagram:**
 
-
+![image](https://user-images.githubusercontent.com/85207262/148813713-575a2669-820e-46f2-af75-73c5490d8854.png)
 
 **Task done by each team member:**
 
