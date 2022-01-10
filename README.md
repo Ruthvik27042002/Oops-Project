@@ -447,23 +447,33 @@ The main purpose of this project “Movie ticket booking system” is to provide
 **Screenshots of the application:**
 
 **Welcome page** – 
+
 ![image](https://user-images.githubusercontent.com/85207262/148814105-e528baf6-2392-41fa-9cd5-97828e830404.png)
 
 **Register page** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148814237-8f5208a9-ac7e-47a9-a229-1356e66da613.png)
+
 **Registration successful** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148814372-fb61cf8a-3d80-4032-9107-fa02fd7e222c.png)
 
 **Login page** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148814446-c0b5db7b-a4b9-4602-a9bf-39c7c3317640.png)
+
 **Login successful** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148814520-7ca87f54-0691-4cde-aacc-8d8287f23025.png)
 
 **Admin movie events** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148814588-51a8a293-aae7-4253-bc2c-5b1fdca3bd84.png)
 
 **Add movies** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148814721-47505cc9-3084-437d-a0a1-32cc07a0b488.png)
+
 ![image](https://user-images.githubusercontent.com/85207262/148814852-9409e534-e639-4021-bcda-45c9316b4b74.png)
 
 
@@ -471,43 +481,66 @@ The main purpose of this project “Movie ticket booking system” is to provide
 **Search interface** –
 
 Search by movie name:
+
 ![image](https://user-images.githubusercontent.com/85207262/148814937-50261138-e242-42a9-b5e7-f25e4663532d.png)
+
 Search by genre:
+
 ![image](https://user-images.githubusercontent.com/85207262/148815021-d8f7ab86-2c8c-4270-ad30-3b9defa74aa6.png)
+
 Search by language:
+
 ![image](https://user-images.githubusercontent.com/85207262/148815085-9e627edb-4a03-4890-8b1f-ca0147823224.png)
 
 **Delete movies** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148815189-ebe58070-ba93-4373-8a62-d47768830b8d.png)
+
 **Deletion successful** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148815269-9c68fc55-6d2a-47eb-8256-7a655e0d695d.png)
 
 Search after deleting movie -
+
 ![image](https://user-images.githubusercontent.com/85207262/148815339-c548c0da-32b7-4dc5-baf5-43dca1dbea7a.png)
+
 **Update movie** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148815438-62b4f790-fe6f-4dd5-a28d-a2a1f2faecc3.png)
 
 **After updating the movie** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148815539-2eb01c87-dcfe-46b1-84e9-7d6f4e50d2fc.png)
 
 **Search of updated movie** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148815613-222b1930-15b9-4fdf-807c-e4962df64e11.png)
 
 **Selection** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148815724-b9137a0d-18ab-438d-99b0-b51ed55e8f71.png)
+
 **Booking** –
+
 ![image](https://user-images.githubusercontent.com/85207262/148815784-f87ecfd0-f5f3-48da-8510-864150da3555.png)
+
 ![image](https://user-images.githubusercontent.com/85207262/148815841-36437196-732e-44bf-abcd-69048b6c6046.png)
 
 
 **Credit card** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148815891-91a1b8a6-c548-4d38-933d-0787a52dbb3c.png)
 
 **Net Banking-**
+
 ![image](https://user-images.githubusercontent.com/85207262/148815970-2e919aa4-c2bc-4a6d-b38c-f68097dc3a04.png)
+
 **Upi Payment -** 
+
 ![image](https://user-images.githubusercontent.com/85207262/148816044-a9413fec-2cd4-449a-9691-77fc5b11a12e.png)
+
 **Payment successful** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148816108-ce49b2b9-f4fe-4215-9f78-6c7f2305624a.png)
 
 
@@ -518,21 +551,28 @@ Search after deleting movie -
 
 
 **After booking a seat successfully** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148816175-dc9eaa62-e591-4fd5-9b2f-373fad3f9c84.png)
 
 He need to change the number of seats before selecting the seats otherwise, he cannot select other seats and he will be asked to change the number of seats.
+
 ![image](https://user-images.githubusercontent.com/85207262/148816241-7eda3b77-9555-411d-9fd5-8543311df73c.png)
+
 **Booking seats by another user** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148816324-bf0e6f53-dd84-4297-a6dc-9f6b4fa87a5d.png)
 
 **Cancellation of the ticket** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148816398-66bb0a76-d6ea-4b10-8a2e-8e5e4c96e512.png)
 
 
 **Thank you page** -
+
 ![image](https://user-images.githubusercontent.com/85207262/148816452-4f842e11-81b3-438b-afc4-15ba83a936c7.png)
 
 Cancellation of the ticket will be done only if the booking name exists.
+
 ![image](https://user-images.githubusercontent.com/85207262/148816504-3309f62d-bd41-481e-b72e-983e6ec76089.png)
 
 
